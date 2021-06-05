@@ -6,27 +6,11 @@ Data is more powerful when we share it with others! Let's take what we've learne
 
 ![Images/landingResize.png](Images/landingResize.png)
 
-### Before You Begin
-
-1. Create a new repository for this project called `Web-Design-Challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, add your **html** files, as well as your **assets**, **Resources** and **visualizations** folders. Your `index.html` should be the landing page that the user first sees.
-
-4. Push the above changes to GitHub or GitLab.
-
-5. Deploy to GitHub Pages. 
-
-## Latitude - Latitude Analysis Dashboard with Attitude
-
-For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting [weather data](Resources/cities.csv).
+For this homework there will be a visualization dashboard website using visualizations we've created in a past assignment.
 
 In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
 ### Website Requirements
-
-For reference, see the ["Screenshots" section](#screenshots) below.
 
 The website must consist of 7 pages total, including:
 
@@ -59,14 +43,6 @@ When finished, submit to BootcampSpot the links to 1) the deployed app and 2) th
 
 Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
-### Considerations
-
-* You may use the [weather data](Resources/cities.csv) or choose another dataset. Alternatively, you may use the included [cities dataset](Resources/cities.csv) and pull the images from the [assets folder](Resources/assets).
-* You must use Bootstrap. This includes using the Bootstrap `navbar` component for the header on every page, the bootstrap table component for the data page, and the Bootstrap grid for responsiveness on the comparison page.
-* You must deploy your website to GitHub pages, with the website working on a live, publicly accessible URL as a result.
-* Be sure to use a CSS media query for the navigation menu.
-* Be sure your website works at all window widths/sizes.
-* Feel free to take some liberty in the visual aspects, but keep the core functionality the same.
 
 ### Bonuses
 
@@ -78,7 +54,7 @@ Ensure your repository has regular commits (i.e. 20+ commits) and a thorough REA
 
 ### Screenshots
 
-This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images.
+This section contains the screenshots of each page that were built during this assigment
 
 #### <a id="landing-page"></a>Landing page
 
